@@ -25,9 +25,9 @@ class BaseMessage(object):
 
 if __name__ == '__main__':
     payload = {
-        "busicd": "PURC",
+        "qwe": "wer",
         "charset": "utf-8",
-        "chcd": "ALP"
+        "ertt": "123"
     }
     b2 = BaseMessage()
     print(payload)
